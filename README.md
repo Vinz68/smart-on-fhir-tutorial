@@ -15,9 +15,13 @@ Getting Started
 
 You're going to need:
 
- - Ruby
+ - Git Hub (for source controle and host you smart app)
 
-### Getting Set Up
+### Getting Set Up locally, when using your own server
+
+You're going to need:
+
+ - Ruby
 
 To run this tutorial locally:
 
